@@ -21,7 +21,6 @@
 
 *************
 <br />
-
 <h3 align="left">Discord Status :</h3>
 
 <L align="left">
