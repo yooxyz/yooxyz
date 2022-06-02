@@ -21,6 +21,16 @@
 
 ### Discord Status:
 
+<h3 align="left">Discord Status:</h3>
+
+<L align="left">
+
+<a href="https://discord.com/users/861557890337996821">
+
+<img height="80px" src="[https://discord.c99.nl/widget/theme-4/755032387557130340.png](https://discord.c99.nl/widget/theme-1/861557890337996821.png)" />
+
+</a>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/861557890337996821)](https://discord.com/users/861557890337996821)
 
 ### Connect with me :
