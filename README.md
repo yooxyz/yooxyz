@@ -21,7 +21,7 @@
 
 ### Discord Status:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/27252049710706708)](https://discord.com/users/927252049710706708)
+[![Discord Presence](https://lanyard.cnrad.dev/api/861557890337996821)](https://discord.com/users/861557890337996821)
 
 ### Connect with me :
   
