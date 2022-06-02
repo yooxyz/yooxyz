@@ -17,8 +17,6 @@
 
 - ☕ **Follow & Support me : [CLICK HERE](https://linktr.ee/yooxyz)**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
 <h3 align="left">Discord Status :</h3>
 
 <L align="left">
