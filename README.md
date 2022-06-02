@@ -24,7 +24,11 @@
 ### Discord Status :
 
 
-<img src="https://discord.c99.nl/widget/theme-1/861557890337996821.png">
+<p align="left">
+
+<a href="#"><img width="38%" height="auto" src="https://discord.c99.nl/widget/theme-1/861557890337996821.png" height="38px"/></a>
+
+</p>
   
 ### Connect with me :
   
