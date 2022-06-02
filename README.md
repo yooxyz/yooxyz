@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<h3 align="left">About me :</h3>
+### About me :
 
 - 👋 **Hi, I’m YOO.**
 
@@ -21,7 +21,7 @@
 
 *************
 
-### scord Status :
+### Discord Status :
 
 <L align="left">
 
