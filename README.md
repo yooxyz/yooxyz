@@ -19,7 +19,9 @@
 
 <h3 align="left">Discord Status:</h3>
 <L align="left">
-<a href="https://discord.com/users/861557890337996821">
+<a href="https://discord.com/users/755032387557130340">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/755032387557130340.png" />
+
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
