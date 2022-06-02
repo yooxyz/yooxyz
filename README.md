@@ -17,7 +17,7 @@
 
 - ☕ **Follow & Support me : [CLICK HERE](https://linktr.ee/yooxyz)**
 
-<h3 align="left">Discord Status:</h3>
+<h3 align="left">Discord Status :</h3>
 
 <L align="left">
 
@@ -26,6 +26,8 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-1/861557890337996821.png" />
 
 </a>
+
+  <h1 align="center"><img src="https://discord.c99.nl/widget/theme-2/753653005701611661.png"> </h1>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
