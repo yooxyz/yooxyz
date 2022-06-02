@@ -29,7 +29,7 @@
 
 </a>
 
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/861557890337996821)](https://discord.com/users/861557890337996821)
 ### Connect with me :
   
 <p align="left">
