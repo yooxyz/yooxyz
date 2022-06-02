@@ -47,11 +47,8 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yooxyz&&theme=xcode)](https://github.com/yooxyz)
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yooxyz&show_icons=true&locale=en&theme=tokyonight" alt="yooxyz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
 
-
-  <p align="center"> <img src="https://github.com/rickjosee/rickjosee/blob/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center"> <img src="https://github.com/rickjosee/rickjosee/blob/output/github-contribution-grid-snake.svg"/> </p>
