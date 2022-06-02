@@ -21,16 +21,8 @@
 
 ### Discord Status:
 
-<L align="left">
+[![Discord Presence](https://lanyard.cnrad.dev/api/861557890337996821)](https://discord.com/users/861557890337996821)
 
-<a href="https://discord.com/users/861557890337996821">
-
-<img height="80px" src="https://discord.c99.nl/widget/theme-1/861557890337996821.png" />
-
-</a>
-
-  [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/861557890337996821?theme=dark&bg=272727&idleMessage=%22%C5%9Eu%20anda%20bir%20%C5%9Fey%20yapm%C4%B1yorum.%22)](https://discord.com/users/861557890337996821)
-  
 ### Connect with me :
   
 <p align="left">
