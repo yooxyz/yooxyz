@@ -21,8 +21,6 @@
 
 ### Discord Status:
 
-<h3 align="left">Discord Status:</h3>
-
 <L align="left">
 
 <a href="https://discord.com/users/861557890337996821">
