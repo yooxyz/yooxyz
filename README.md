@@ -35,7 +35,7 @@
 <a href="https://discord.gg/https://discord.gg/yooxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yooxyz" height="30" width="40" /></a>
 </p>
 
-### - Languages and Tools...
+### - Languages and Tools :
 
 <p align="center">
 
