@@ -28,7 +28,7 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-1/861557890337996821.png" />
 
 </a>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/218972931701735424)](https://discord.com/users/218972931701735424)
+
 ### Connect with me :
   
 <p align="left">
