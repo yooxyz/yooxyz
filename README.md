@@ -21,10 +21,6 @@
 
 ### Discord Status:
 
-
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=britishbenji&count_private=true"><img align="right" src="https://lastfm-recently-played.vercel.app/api?user=BritishBenji">
-  
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/400912133367529472)](https://discord.com/users/400912133367529472)
 
 </div>
