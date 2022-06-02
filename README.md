@@ -44,5 +44,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yooxyz&&theme=tokyonight" alt=yooxyz" /></p>
   <p align="center"> <img src="https://github.com/rickjosee/rickjosee/blob/output/github-contribution-grid-snake.svg"/> </p>
-
-<p align="center">  <img src="https://skillicons.dev/icons?i=js,nodejs,heroku,mongodb,git,github"> </p>
