@@ -1,6 +1,8 @@
 [![MasterHead](https://tapendrapandey.com.np/wp-content/uploads/2020/09/head.gif)](https://rishavchanda.io)
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
 <h3 align="left">About me :</h3>
 
 - 👋 **Hi, I’m YOO.**
@@ -16,6 +18,8 @@
 - 📫 **How to reach me My Discord Account : F Y B龴++#3784**
 
 - ☕ **Follow & Support me : [CLICK HERE](https://linktr.ee/yooxyz)**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 <h3 align="left">Discord Status :</h3>
 
