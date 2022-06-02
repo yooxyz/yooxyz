@@ -24,12 +24,16 @@
 ### Discord Status :
 
 
-<p align="left">
+<h3 align="left">Discord Status:</h3>
 
-<a href="#" width="38%" height="auto" src="https://discord.c99.nl/widget/theme-1/861557890337996821.png" height="38px"/></a>
+<L align="left">
 
-</p>
-  
+<a href="https://discord.com/users/861557890337996821">
+
+<img height="80px" src="https://discord.c99.nl/widget/theme-1/861557890337996821.png" />
+
+</a>
+
 ### Connect with me :
   
 <p align="left">
