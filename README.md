@@ -28,8 +28,6 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-1/861557890337996821.png" />
 
 </a>
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/861557890337996821)](https://discord.com/users/861557890337996821)
 
 ### Connect with me :
   
