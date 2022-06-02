@@ -17,7 +17,7 @@
 
 - 📫 **How to reach me My Discord Account : F Y B龴++#3784**
 
-- ☕ **Follow & Support me : [CLICK HERE](https://linktr.ee/yooxyz)**
+- ☕ **Follow & Support me : [Click Here](https://linktr.ee/yooxyz)**
 
 *************
 
