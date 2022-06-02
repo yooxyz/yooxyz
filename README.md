@@ -27,6 +27,10 @@
 
 </a>
   
+  <div align="center">
+    <a href="https://discord.com/users/911987924470464532" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/911987924470464532"></a>
+</div>
+  
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://instagram.com/yooxyz._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yooxyz._" height="30" width="40" /></a>
