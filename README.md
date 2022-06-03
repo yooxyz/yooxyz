@@ -25,7 +25,7 @@
 
 <a href="https://discord.com/users/927252049710706708">
 
-<img height="80px" src="https://discord.c99.nl/widget/theme-1/927252049710706708.png"
+<img height="80px" src="https://discord.c99.nl/widget/theme-1/927252049710706708.png">
 </a>
 
 ### Connect with me :
