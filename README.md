@@ -1,7 +1,6 @@
 [![MasterHead](https://tapendrapandey.com.np/wp-content/uploads/2020/09/head.gif)](https://rishavchanda.io)
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-### About me 
+### About me :
 
 - 👋 **Hi, I’m YOO.**
 
