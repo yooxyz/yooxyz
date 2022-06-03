@@ -40,4 +40,9 @@
 
 *************
 
-<p align="center"> <img src="https://github.com/rickjosee/rickjosee/blob/output/github-contribution-grid-snake.svg"/> </p>
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+
+  
+
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+
