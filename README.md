@@ -49,7 +49,7 @@ BASH          0 secs       █▓░░░░░░░░░░░░░░░�
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yooxyz&&theme=tokyonight" alt="rishavchanda" /></p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yooxyz&&theme=xcode)](https://github.com/yooxyz)
+<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=yooxyz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 
 
 *************
