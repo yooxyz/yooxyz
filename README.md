@@ -29,7 +29,6 @@
 </a>
 
 <div align="center">
-
     <a href="https://discord.com/users/911987924470464532" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/911987924470464532"></a>
 
 </div>
