@@ -37,6 +37,9 @@
 
 <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=yooxyz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=litelyte&theme=dracula" />
+    </span></a>
+</p>
 
 *************
 
