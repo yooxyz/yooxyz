@@ -29,7 +29,7 @@
 </a>
 
 <div align="center">
-    <a href="https://discord.com/users/911987924470464532" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/911987924470464532"></a>
+    <a href="https://discord.com/users/927252049710706708" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/927252049710706708"></a>
 
 </div>
 
