@@ -38,7 +38,8 @@
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=yooxyz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 
-*************
+************
 
+https://user-images.githubusercontent.com/76062682/VID-20220602-WA0261.mp4
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
