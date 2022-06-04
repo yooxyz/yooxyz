@@ -35,6 +35,7 @@
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AeonCan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a> | <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yooxyz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"> </a> |
 | ------------- | ------------- |
+
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=yooxyz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 
 *************
