@@ -35,6 +35,7 @@
 
 <a href="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Maria's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yooxyz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yooxyz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"><img width="100%" src="https://activity-graph.herokuapp.com/graph?username=yooxyz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
 
 *************
