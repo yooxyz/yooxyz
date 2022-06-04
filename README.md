@@ -43,6 +43,5 @@
 </p>
 <p align="center">
 <img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
-</p>
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
