@@ -13,7 +13,7 @@
 
 - 💬 **Ask me about Discord Bot and Discord Server Settings.**
 
-- 📫 **How to reach me My Discord Account : F Y B龴++#3784**
+- 📫 **How to reach me My Discord Account : CYUPIS#8593**
 
 - ☕ **Follow & Support me : [Click Here](https://linktr.ee/yooxyz)**
 
@@ -32,7 +32,7 @@
 
 ### Github Analytics :
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Profile Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yooxyz&label=Profile Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/yooxyz?style=social)
 
