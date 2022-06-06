@@ -34,9 +34,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yooxyz&label=Profile Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-![GitHub User's stars](https://img.shields.io/github/stars/yooxyz?style=social)
-
 ![GitHub followers](https://img.shields.io/github/followers/yooxyz?style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/yooxyz?style=social)
 
 <img width="120%" src="https://github-readme-stats.vercel.app/api?username=yooxyz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a> | <img width="120%" src="https://github-readme-streak-stats.herokuapp.com/?user=yooxyz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"> </a> |
 | ------------- | ------------- |
